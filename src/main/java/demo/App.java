@@ -12,7 +12,10 @@ public class App {
 
         //TODO: call your test case functions one after other here
 
-        tests.testCase01();
+       tests.testCase01();
+       tests.testCase02_Verify_Calendar_Navigation_and_Add_Task();
+       tests.testCase03_Verify_The_Task_Updation();
+       tests.testCase04_Verify_The_Task_deletion();
 
         //END Tests
 
